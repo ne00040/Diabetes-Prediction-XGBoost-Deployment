@@ -13,6 +13,8 @@ It introduces **XGBoost**, compares its performance with Logistic Regression, an
    - `scaler.pkl` – Saved MinMaxScaler.
    - `diabetes_dataset.csv` – Dataset used for training.
 
-2. Run the Flask app: python app.py
-
-3. Open your browser and go to: http://127.0.0.1:5000
+2. Run the Jupyter Notebook file: `Ekwenibe_Project3.ipynb`
+   
+3. Run the Flask app: `python app.py`
+   
+4. Open your browser and go to: `http://127.0.0.1:5000`
